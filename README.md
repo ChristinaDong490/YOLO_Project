@@ -1,4 +1,4 @@
-# capstone
+# YOLO_Project
 ## data
 https://dl.cv.ethz.ch/bdd100k/data/100k_images_train.zip  
 https://dl.cv.ethz.ch/bdd100k/data/100k_images_val.zip  
